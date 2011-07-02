@@ -194,12 +194,12 @@ hr
 	text-align: center;
 }
 
-#navlist li 
+ul#menu li 
 {
 	display: inline;
 }
 
-#navlist li a
+ul#menu li a
 {
 	text-decoration: none;
 	background-color: #600;
@@ -208,13 +208,13 @@ hr
 	border-right: 1px solid #fff;
 }
 
-#navlist li a.current
+ul#menu li a.current
 {
 	background-color: #999;
 	color: #fff;
 }
 
-#navlist li a:hover
+ul#menu li a:hover
 {
 	background-color: #900;
 	color: #fff;
