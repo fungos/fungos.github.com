@@ -235,6 +235,12 @@ ul#menu li a:hover
     padding:0 2em;
 }
 
+#footer h2
+{
+	height: 10px;
+	color: #600;
+}
+
 #footer p 
 {
     line-height:35px;
