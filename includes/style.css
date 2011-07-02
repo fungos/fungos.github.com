@@ -231,13 +231,8 @@ ul#menu li a:hover
 
 #footer .inside 
 {
-    height:35px;
-    padding:0 2em;
-}
-
-#footer h2
-{
-	height: 10px;
+	height:20px;
+	padding:0 2em;
 	color: #600;
 }
 
