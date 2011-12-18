@@ -17,7 +17,7 @@ body
 
 a 
 {
-    color: #600;
+    color: #900;
     text-decoration: none;
 }
 
@@ -112,6 +112,15 @@ hr
     font-size: 2em;
     font-weight:900;
     color:#590000;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.content-title a
+{
+    font-size: 2em;
+    font-weight:900;
+    color:#600;
     margin-top: 10px;
     text-align: center;
 }
@@ -283,7 +292,7 @@ p.copyright a:hover{color:#666;}
 
 body a:hover 
 {
-    color: DarkSlateGray;
+    color: Red;
 }
 
 blockquote a:hover 
