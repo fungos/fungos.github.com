@@ -182,6 +182,10 @@ hr
     color: Gray;
 }
 
+.center
+{
+	text-align: center;
+}
 
 #menu ul
 {
