@@ -10,11 +10,58 @@ section: cv
 <h2>Work</h2>
 
 <h3>2011-01 - Current</h3>
-<h3>Chief Backend Programming at <a href='http://www.techfront.com.br'>QuePasa Games</a></h3>
+<h3>Chief of Backend Programming at <a href='http://www.techfront.com.br'>QuePasa Games</a></h3>
 
 Chief and lead backend/server developer for social games:
 - Cidade Maravilhosa (2011)
 - Title in development (2011)
+
+<h3>2008-03 - 2011-01</h3>
+<h3>Engine Architect, Senior Developer at <a href='http://www.techfront.com.br'>TechFront Studios</a></h3>
+
+Architect and Lead programmer for the <a href='http://www.github.com/fungos/sdk'>Seed Framework</a>, an open source 2D cross plataform game library.
+
+Senior programmer that actively participated in the following released projects:
+- Pakoombo for Windows and MacOS X;
+- Puzzle City for Nintendo DS by Destineer;
+- Burger Island for Nintendo DS/Destineer;
+- Burger Island for Nintendo Wii by eGames/Destineer;
+- Burger Bash for iPhone by eGames;
+- Pense Seu Caminho for iPhone by BGInterativa;
+- The Dracula Files for Windows by eGames;
+- Lilly Wu for Windows/MacOSX by NatGeo Games;
+- French Fry Frenzy for iPhone by eGames;
+- Milkshake Madness for iPhone by eGames;
+- Burger Island for iPhone by eGames;
+- Burger Island HD for iPad by eGames;
+
+Also credited in the following released projects:
+- Satisfashion for Nintendo Wii by eGames/Destineer;
+- Satisfashion for Nintendo DS by eGames/Destineer;
+- Mimi's Party Fun! for Nintendo DS by Destineer;
+
+<h3>2005-07 - 2008-02</h3>
+<h3>Senior Software Analyst, Project Leader at <a href='http://www.sumersoft.com.br'>Sumersoft Tecnologia</a></h3>
+
+- Project Leader for outsourcing financial project based on .Net technology.
+- Software Analyst for PayTV billing systems.
+
+<h3>2004-05 - 2005-06</h3>
+<h3>CTO, Lead Programmer at <a href='http://www.bitcrafters.com.br'>Bitcrafters Inc.</a></h3>
+
+- Programmer for BCL Framework, a cross platform framework for Craft3D engine;
+- Programmer for Craft3D Engine, fully created in-house 3D opengl rendering engine;
+- Programmer for the game Jessy: Ein Zirkuspferd in Not, released in Germany;
+
+<h3>2002-01 - 2004-04</h3>
+<h3>Lead Programmer at Eonsgames</h3>
+
+Mobile Game Programming with Brew, J2ME and NTT/DoCoMo iMode DoJa for japanese mobile market.
+- DigiFamily;
+- SpaceCraft;
+- Soccer Adventure;
+- Card Games;
+- Memo Yume;
 
 <h2>Studies</h2>
 
