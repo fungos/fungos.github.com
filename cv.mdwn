@@ -5,8 +5,16 @@ permalink: /cv/
 section: cv
 ---
 <h1 class="center">Danny Angelo Carminati Grein</h1>
+<div class="center"><a href='http://www.linkedin.com/in/dannygrein'>LinkedIn</a></div>
 
-<h2>Work backgroud</h2>
+<h2>Work</h2>
+
+<h3>Chief Backend Programming</h3>
+<h3>QuePasa Games</h3>
+
+Backend programming chief and lead developer for social games:
+- Cidade Maravilhosa (2011)
+- Title in development (2011)
 
 <h2>Studies</h2>
 
