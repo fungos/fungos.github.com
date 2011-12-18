@@ -15,5 +15,8 @@ section: cv
 <h2>Languages</h2>
 
 Portuguese
+
 English
+
 French
+
