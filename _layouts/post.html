@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2 class='center'>{{ post.title }}</h2>
+<h2 class='center'>{{ page.title }}</h2>
 
 {{ content }}
 
@@ -11,7 +11,7 @@ layout: default
   &bull; <a href="http://fungos.github.com{{ page.url }}">Permalink</a></p> 
 </div>
 
-<div class="meta" align="center">  
+<div class="meta" align="left">  
   tags:
     {% for t in page.tags %}
     <a href='http://www.google.com/search?q={{ t | escape }}+site:fungos.github.com'>{{ t }}</a>
