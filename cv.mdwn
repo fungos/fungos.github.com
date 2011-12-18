@@ -10,16 +10,16 @@ section: cv
 <h2>Work</h2>
 
 <h3>2011-01 - Current</h3>
-<h3>Chief of Backend Programming at <a href='http://www.techfront.com.br'>QuePasa Games</a></h3>
+<h3>Chief of Backend Programming at <a href='http://www.techfront.com.br' target='_new'>QuePasa Games</a></h3>
 
 Chief and lead backend/server developer for social games:
 - Cidade Maravilhosa (2011)
 - Title in development (2011)
 
 <h3>2008-03 - 2011-01</h3>
-<h3>Engine Architect, Senior Developer at <a href='http://www.techfront.com.br'>TechFront Studios</a></h3>
+<h3>Engine Architect, Senior Developer at <a href='http://www.techfront.com.br' target='_new'>TechFront Studios</a></h3>
 
-Architect and Lead programmer for the <a href='http://www.github.com/fungos/sdk'>Seed Framework</a>, an open source 2D cross plataform game library.
+Architect and Lead programmer for the <a href='http://www.github.com/fungos/sdk' target='_new'>Seed Framework</a>, an open source 2D cross plataform game library.
 
 Senior programmer that actively participated in the following released projects:
 - Pakoombo for Windows and MacOS X;
@@ -41,13 +41,13 @@ Also credited in the following released projects:
 - Mimi's Party Fun! for Nintendo DS by Destineer;
 
 <h3>2005-07 - 2008-02</h3>
-<h3>Senior Software Analyst, Project Leader at <a href='http://www.sumersoft.com.br'>Sumersoft Tecnologia</a></h3>
+<h3>Senior Software Analyst, Project Leader at <a href='http://www.sumersoft.com.br' target='_new'>Sumersoft Tecnologia</a></h3>
 
 - Project Leader for outsourcing financial project based on .Net technology.
 - Software Analyst for PayTV billing systems.
 
 <h3>2004-05 - 2005-06</h3>
-<h3>CTO, Lead Programmer at <a href='http://www.bitcrafters.com.br'>Bitcrafters Inc.</a></h3>
+<h3>CTO, Lead Programmer at <a href='http://www.bitcrafters.com.br' target='_new'>Bitcrafters Inc.</a></h3>
 
 - Programmer for BCL Framework, a cross platform framework for Craft3D engine;
 - Programmer for Craft3D Engine, fully created in-house 3D opengl rendering engine;
@@ -65,7 +65,16 @@ Mobile Game Programming with Brew, J2ME and NTT/DoCoMo iMode DoJa for japanese m
 
 <h2>Studies</h2>
 
-<h2>Extra</h2>
+<h3>2003 - 2004</h3>
+<h3>Specialization in Game Development at Universidade Positivo (UP)</h3>
+
+<h3>1999 - 2002</h3>
+<h3>Bachelor in Computer Science at Pontifícia Universidade Católica do Paraná (PUCPR)</h3>
+
+<h2>Trainings</h2>
+
+<h3>2011-12</h3>
+<h3>Training for Project Management Professional at <a href='http://www.euax.com.br' target='_new'>Euax</a></h3>
 
 <h2>Languages</h2>
 
