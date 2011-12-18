@@ -75,7 +75,7 @@ Mobile Game Programming with Brew, J2ME and NTT/DoCoMo iMode DoJa for japanese m
 <h2>Trainings</h2>
 
 <h3>2011-12</h3>
-Training for Project Management Professional at <a href='http://www.euax.com.br' target='_new'>Euax</a>
+<h3>Training for Project Management Professional at <a href='http://www.euax.com.br' target='_new'>Euax</a></h3>
 
 <h2>Languages</h2>
 
