@@ -4,7 +4,7 @@ title: getProjects();
 section: projects
 ---
 {% for post in site.tags.project %}
-				<div class="content-title">{{ post.title }}</div>
+				<div class="content-title">{% if page.github %}<a class="tiny" href="http://www.github.com/fungos/{{ page.github }}" target='_gh'>{% endif %}{{ post.title }}{% if page.github %}</a>{% endif %}</div>
 				<!-- BEGIN PROJECT CONTENT -->
 {{ post.content }}
 				<!-- END PROJECT CONTENT -->
