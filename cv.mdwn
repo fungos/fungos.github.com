@@ -67,11 +67,11 @@ Mobile Game Programming with Brew, J2ME and NTT/DoCoMo iMode DoJa for japanese m
 
 <h3>2003 - 2004</h3>
 <h3>Specialization in Game Development at Universidade Positivo</h3>
-&nbsp;
+<br />
 
 <h3>1999 - 2002</h3>
 <h3>Bachelor in Computer Science at Pontif&iacute;cia Universidade Cat&oacute;lica do Paran&aacute; (PUCPR)</h3>
-&nbsp;
+<br />
 
 <h2>Trainings</h2>
 
