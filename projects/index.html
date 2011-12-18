@@ -3,10 +3,10 @@ layout: default
 title: getProjects();
 section: projects
 ---
-{% for project in site.tags.project %}
-				<div class="content-title">{{ project.title }}</div>
+{% for post in site.tags.project %}
+				<div class="content-title">{{ post.title }}</div>
 				<!-- BEGIN PROJECT CONTENT -->
-{{ project.content }}
+{{ post.content }}
 				<!-- END PROJECT CONTENT -->
 			</div>
 {% endfor %}
