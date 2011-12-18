@@ -4,7 +4,7 @@ layout: default
 permalink: /cv/
 section: cv
 ---
-<h1 class="center">Danny Angelo Carminati Grein</h1>
+<div class="centerbig">Danny Angelo Carminati Grein</div>
 <div class="center"><a href='http://www.linkedin.com/in/dannygrein'>LinkedIn</a></div>
 
 <h2>Work</h2>

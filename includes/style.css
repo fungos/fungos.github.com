@@ -184,6 +184,15 @@ hr
     color: Gray;
 }
 
+.centerbig
+{
+    font-size: 2em;
+    font-weight:900;
+    color:#590000;
+    margin-top: 10px;
+    text-align: center;
+}
+
 .center
 {
 	text-align: center;
