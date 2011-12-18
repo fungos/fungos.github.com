@@ -5,6 +5,12 @@ section: home
 ---
 {% include content-index.mdwn %}
 				<div class="clear"></div>
-{% for post in site.posts %}
+{% for post in site.tags.blog %}
 				<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+
+				<div class="clear"></div>
+				<h3>Projects</h3><br />
+{% for post in site.tags.project %}
+				<li> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
