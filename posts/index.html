@@ -3,7 +3,7 @@ layout: default
 title: getPosts();
 section: posts
 ---
-{% for post in site.posts %}
+{% for post in site.tag.blog %}
 				<div class="content-title">{{ post.title }}</div>
 				<!-- BEGIN POST CONTENT -->
 {{ post.content }}
