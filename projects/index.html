@@ -4,10 +4,13 @@ title: getProjects();
 section: projects
 ---
 {% for post in site.tags.project %}
-				<div class="content-title">{% if post.github %}<a href="http://www.github.com/fungos/{{ post.github }}" target='_gh'>{% endif %}{{ post.title }}{% if post.github %}</a>{% endif %}</div>
+				<div class="content-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
 				<!-- BEGIN PROJECT CONTENT -->
 {{ post.content }}
 				<!-- END PROJECT CONTENT -->
+				
+				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+				{% if post.github %}<li><a href="http://www.github.com/fungos/{{ page.github }}" target='_gh'>GitHub</a></li>{% endif %}
 				<div class="clear"></div>
 {% endfor %}
 			</div>
