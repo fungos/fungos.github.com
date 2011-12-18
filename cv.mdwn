@@ -9,10 +9,9 @@ section: cv
 
 <h2>Work</h2>
 
-<h3>Chief Backend Programming</h3>
-<h3>QuePasa Games</h3>
+<h3>2011-01..Current: Chief Backend Programming at <a href='http://www.techfront.com.br'>QuePasa Games</a></h3>
 
-Backend programming chief and lead developer for social games:
+Chief and lead backend/server developer for social games:
 - Cidade Maravilhosa (2011)
 - Title in development (2011)
 
