@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<h2 class='center'>{{ page.title }}</h2>
+
+{{ content }}
+
+{% if page.github %}
+<div><a href="http://www.github.com/fungos/{{ page.github }}">GitHub</a></div>
+{% endif %}
+
+<div class="meta" align="left">  
+  tags:
+    {% for t in page.tags %}{{ t }}
+    {% if forloop.last == false %}, {% endif %}
+    {% endfor %}
+</div>
+
+<div class="clear"></div>
