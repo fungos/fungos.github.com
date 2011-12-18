@@ -4,4 +4,16 @@ layout: default
 permalink: /cv/
 section: cv
 ---
-cv
+<h1>Danny Angelo Carminati Grein</h1>
+
+<h2>Work backgroud</h2>
+
+<h2>Studies</h2>
+
+<h2>Extra</h2>
+
+<h2>Languages</h2>
+
+Portuguese
+English
+French
