@@ -1,7 +1,0 @@
----
-title: getProjects();
-layout: default
-permalink: /projects/
-section: projects
----
-Projects
