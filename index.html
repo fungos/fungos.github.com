@@ -10,7 +10,7 @@ section: home
 {% assign first_post = site.posts.first %}
 				<div id="post">
 					<h2><a href="{{ first_post.url }}">{{ first_post.title }}</a></h2>
-					{{ first_post.content | truncate: 450 }}
+					{{ first_post.content | truncate: 450 }}<br />
 					<a id="more" href="{{ first_post.url }}">Read More &raquo;</a>
 				</div>
 
