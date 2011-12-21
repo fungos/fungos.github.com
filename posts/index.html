@@ -3,7 +3,7 @@ layout: default
 title: getPosts();
 section: posts
 ---
-{% for post in paginator.posts limit: 1 %}
+{% for post in paginator.posts %}
 				<div class="content-title">{{ post.title }}</div>
 				<!-- BEGIN POST CONTENT -->
 {{ post.content }}
