@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Maintaining the Seed Framework
-tags: blog news seed portability
+tags: seed portability
+category: blog
 ---
 
 As you should know Seed Framework is a 2D cross platform game framework, it was used at TechFront Studios to develop casual games for Windows, MacOSX, iOS and Nintendo Wii.
